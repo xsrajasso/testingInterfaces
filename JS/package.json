@@ -1,0 +1,103 @@
+{
+  "name": "desktop-template",
+  "productName": "desktop-template",
+  "version": "1.0.0",
+  "description": "Desktop Template app based on electron",
+  "main": ".webpack/main",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish",
+    "lint": "echo \"No linting configured\""
+  },
+  "keywords": [],
+  "author": "Rogelio Echavarría",
+  "license": "MIT",
+  "config": {
+    "forge": {
+      "packagerConfig": {},
+      "makers": [
+        {
+          "name": "@electron-forge/maker-squirrel",
+          "config": {
+            "name": "desktop_template"
+          }
+        },
+        {
+          "name": "@electron-forge/maker-zip",
+          "platforms": [
+            "darwin"
+          ]
+        },
+        {
+          "name": "@electron-forge/maker-deb",
+          "config": {}
+        },
+        {
+          "name": "@electron-forge/maker-rpm",
+          "config": {}
+        }
+      ],
+      "plugins": [
+        [
+          "@electron-forge/plugin-webpack",
+          {
+            "mainConfig": "./webpack.main.config.js",
+            "renderer": {
+              "config": "./webpack.renderer.config.js",
+              "entryPoints": [
+                {
+                  "html": "./src/index.html",
+                  "js": "./src/renderer.js",
+                  "name": "main_window"
+                }
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/plugin-proposal-decorators": "^7.15.8",
+    "@babel/plugin-transform-runtime": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@electron-forge/cli": "^6.0.0-beta.61",
+    "@electron-forge/maker-deb": "^6.0.0-beta.61",
+    "@electron-forge/maker-rpm": "^6.0.0-beta.61",
+    "@electron-forge/maker-squirrel": "^6.0.0-beta.61",
+    "@electron-forge/maker-zip": "^6.0.0-beta.61",
+    "@electron-forge/plugin-webpack": "6.0.0-beta.61",
+    "@vercel/webpack-asset-relocator-loader": "1.7.0",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^6.4.0",
+    "electron": "15.3.0",
+    "node-loader": "^2.0.0",
+    "postcss": "^8.3.10",
+    "postcss-import": "^14.0.2",
+    "postcss-loader": "^6.2.0",
+    "postcss-mixins": "^8.1.0",
+    "postcss-nested": "^5.0.6",
+    "postcss-normalize": "^10.0.1",
+    "postcss-preset-env": "^6.7.0",
+    "postcss-variables": "^1.1.1",
+    "style-loader": "^3.3.0"
+  },
+  "dependencies": {
+    "@universidad-carolina/abstractapimodel": "^1.0.0",
+    "@universidad-carolina/abstractmodel": "^1.0.0",
+    "@universidad-carolina/abstractview": "^1.0.0",
+    "@universidad-carolina/decorators": "^1.0.1",
+    "@universidad-carolina/eventing": "^1.0.10",
+    "@universidad-carolina/helpers": "^1.0.6",
+    "@universidad-carolina/query": "^1.0.0",
+    "@universidad-carolina/requester": "^1.0.1",
+    "@universidad-carolina/router": "^1.0.1",
+    "@universidad-carolina/scales": "^1.0.0",
+    "@universidad-carolina/store": "^1.0.0",
+    "@universidad-carolina/translate": "^1.0.0",
+    "electron-squirrel-startup": "^1.0.0"
+  }
+}
