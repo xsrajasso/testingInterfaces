@@ -1,0 +1,388 @@
+--------------------------------- INICIO DE PENSAMIENTO MATEMATICO -----------------------------------------------------------------------
+
+1----
+(Pregunta)
+En una tienda donde se vende ropa, al adquirir una chamarra de piel se aplica un descuento de 15% sobre el precio de venta. Si el precio de venta de cada chamarra es de $700.00, ¿Cuánto se paga al momento de adquirirla?
+(Incisos)
+A)	                B)                c)             D)
+"$805.00", "$658.54", "$635.23", "$595.00"
+(Respuesta)
+D. "$595.00"
+
+2---
+(Pregunta)
+El resultado de (4x + 3y – 5) – (2x + y – 3), es:
+(Incisos)
+A)	                  B)                     C)                     D)
+"2x – 2y – 2" , "2x + 2y – 2" , "2x + 2y + 2" , "2x – 2y + 2"
+(Respuesta)
+B. "2x + 2y – 2"
+
+3---
+(Pregunta)
+¿Cuál es el resultado al realizar el siguiente producto  (-4a³b)² (-3a²b-1)4 
+(Incisos)
+A)	                  B)                     C)                     D)
+"81a²/64b14" , "a12/81b3" , "16a14/343b2" , "1296a14/b2"
+(Respuesta)
+D. "1296a14/b2"
+
+
+4---
+(Pregunta)
+Una expresión equivalente a 3sqrt(54) , es:
+(Incisos)
+A)	                  B)                     C)                     D)
+"2(3sqrt(3))" , "3(3sqrt(2)" , "2(sqrt(3))" , "3(sqrt(2)"
+(Respuesta)
+B. "3(3sqrt(2)"
+
+5---
+(Pregunta)
+Realiza el siguiente producto [3(sqrt(3)) + 5(sqrt(2)) ] [sqrt(3) – 2(sqrt(2))]
+(Incisos)
+A)	                        B)                          C)                           D)
+"11 + 2(sqrt(6))" , "-11 – sqrt(6)" , "17 – sqrt(6)" , "-17 + 4(sqrt(6))"
+(Respuesta)
+B. "-11 – sqrt(6)"
+
+
+--------------------------------- PREGUNTAS DUQUE 1- 5 -----------------------------------------------------------------------
+
+6---- 
+
+La factorización de 4x2 - 9, es:
+
+"(2x + 3)(2x + 3)", "(2x - 3)(2x - 3)", "(2x + 3)(2x - 3)", "(3 - 2x)(2x + 3)"
+
+C. "(2x + 3)(2x - 3)"
+
+
+7----
+
+Una expresión equivalente a x2 - 12x + 36, es:
+
+"(x - 12)(x - 3)", "(x - 6)2", "(x + 9)(x + 4)", "(x + 6)2"
+
+B. "(x - 6)2"
+
+
+8----
+
+Una expresión equivalente a x2 - 2xy - 15y2, es:
+
+"(x - 5y)(x + 3y)", "(x - 15y)(x + 1y)", "(x - 5y)(x - 3y)", "(x - 3y)(x + 15y)"
+
+A. "(x - 5y)(x + 3y)"
+
+
+9----
+
+Una expresión equivalente a 2x2 + 3x + 1, es:
+
+"(2x + 1)(x + 2)", "(x + 1)(2x + 1)", "(2x - 1)(x - 1)", "(2x + 1)(x - 1)"
+
+B. "(x + 1)(2x + 1)"
+
+
+10----
+
+Al simplificar la expresión (p-1 + q-1)/(p-2 - q-2), se obtiene:
+
+"p / q(q + p)", "1 / pq", "pq / (q - p)", "1 / pq(q - p)"
+
+D. "1 / pq(q - p)"
+
+--------------------------------- PREGUNTAS ELDA 6- 10 -----------------------------------------------------------------------
+
+1----
+(pregunta)
+El resultado de (x+1/x-2)-(x-5/x+3),es:
+
+(Incicsos)
+         (a)                  (b)                 (c)                (d)
+"(x-13)/((x+2)(x+3))", "-4/(x-2)(x+3)", "(x+13)/(x-2)(x+3)", "-7/(x-2)(x+3)" 
+
+
+(Respuesta)
+C. "(x+13)/(x-2)(x+3)"
+
+
+2----
+(pregunta)
+simplifica la expresion(1/mn)(((m^-1)-(n^-1))/((m^-2)-(2(m^-1)(n^-1))+(n^-2)))
+
+(Incicsos)
+
+"1/n-m", "(n+m)/n-m", "(m-1)/n-m", "n/n+m" 
+
+
+(Respuesta)
+A. "1/n-m"
+
+
+3----
+(pregunta)
+Al despejar "a" de la formula Vf^2 = Vo^2 + 2ad, se obtiene:
+
+(Incicsos)
+
+"(Vo^2-Vf^2)/2d", "(-Vf^2-Vo^2)/2d", "(Vf^2-Vo2)/2d", "(Vf^2+Vo^2)/2d" 
+
+
+(Respuesta)
+C. "(Vf^2-Vo2)/2d"
+
+
+
+4----
+(pregunta)
+El valor de "x" que satisface la ecuacion 2/(3x-1) = 3/(x+2), es:
+
+(Incicsos)
+
+"x=-1", "x=2", "x=1", "x=-2" 
+
+
+(Respuesta)
+C. "x=1"
+
+
+5----
+(pregunta)
+El angulo (11/6)π es equivalente a:
+
+(Incicsos)
+
+"75º", "150º", "225º", "330º" 
+
+
+(Respuesta)
+D. "330º"
+
+--------------------------------- PREGUNTAS MARCO 11- 15 -----------------------------------------------------------------------
+
+1----
+(pregunta)
+Al simplificar sqrt3sqrt64, se obtiene
+(Incisos)
+	                                (b)                                      (c)                                             (d)                
+      "6sqrt2" ,                     "3sqrt2"  ,                          "sqrt2"  ,                                      "2"  
+(Respuesta)
+	"2"
+
+
+2----
+(pregunta)
+El resultado de sqrtx3 * sqrtx , es:
+	                                (b)                                       (c)                                            (d)
+            "x"                                  "x3"                                   "x4"                                           "x2"
+(Respuesta)
+D. "x2"
+
+3---
+(pregunta)
+¿Qué polinomio es equivalente a la igualdad 3sqrtx2  - sqrtx - 1/3sqrtx  ?
+(Respuesta)
+B. X6 -7x5 + 20x4  -34x3 + 20x2  -7x + 1= 0
+
+
+
+
+
+
+
+4---
+(pregunta)
+Al racionalizar la expresión  1/(3+sqrt2)  , se obtiene :
+	                                (b)                                       (c)                                            (d)
+       "3-sqrt2"                       "(3-sqrt2)/7"                            "(3-sqrt2)/4"                                 "(3-sqrt2)/5"
+(Respuesta)
+B."  (3-sqrt2)/7"
+
+5---
+El desarrollo de (a – 2)3 , es:
+	                                (b)                                       (c)                                            (d)
+"a3 + 6a2  + 12ª + 8"        " a2 + 9a2 + 12a - 8"      " a3 + 9a2  + 12a + 8"               " a3- 6a2  + 12a - 8"
+(Respuesta)
+D. " a3- 6a2  + 12a - 8"
+
+--------------------------------- PREGUNTAS FELIPE 16- 20 -----------------------------------------------------------------------
+
+
+
+
+--------------------------------- FINAL DE PENSAMIENTO MATEMATICO -----------------------------------------------------------------------
+
+
+
+--------------------------------- INICIO DE PENSAMIENTO ANALITICO -----------------------------------------------------------------------
+
+--------------------------------- PREGUNTAS DUQUE 1 - 13 -----------------------------------------------------------------------
+
+1----
+(Pregunta)
+¿Que hora es, sise sabe que el tiempo transcurrido del dia es 2/3 de lo que tarda por transcurrir?
+(Incisos)
+A)	    B)        C)          D)
+"8:30 h", "9:22 h", "9:36 h", "10:45 h"
+(Respuesta)
+C. "9:36 h"
+
+2----
+(Pregunta)
+Un vendedor mezcla café chiapaneco de $130.00 el kg con café colombianop de $115.00 el kg y obtiene 100kg que vende a $124.75 el kg. ¿Cuantos kg usó de café colombiano?
+
+(Incisos)
+A)	    B)       C)       D)
+"65 kg", "48 kg", "40.5 kg", "35 kg"
+(Respuesta)
+D. "35 kg"
+
+3----
+(Pregunta)
+Señala el número que continúa en la sucesion: 1/3, 2/1, 3/-1, 4/-3,..., es:
+(Incisos)
+A)       B)     C)       D)
+"5/1", "5/3", "5/-5", "5/-1"
+(Respuesta)
+C. "5/-5"
+
+4----
+(Pregunta)
+El número que continúa en la sucesion: 11,18,27,38,..., es:
+(Incisos)
+A)     B)    C)    D)
+"41", "51", "61", "52"
+(Respuesta)
+B. "51"
+
+5----
+(Pregunta)
+¿En cuál opcion la diferencia entre los términos consecutgivos es igual a 1/3?
+(Incisos)
+A)                                 B)                  C)                 D)
+"1/5,7/10,19/20,67/60", "1/4,7/12,11/12,19/12", "1/3,2/3,5/3,8/3", "1/2,5/6,7/6,3/2"
+(Respuesta)
+D. "1/2,5/6,7/6,3/2"
+
+6----
+(Pregunta)
+Mi tía Carmela siempre nos decía: quien mucho abarca, poco aprieta. Lo que ella nos quiso decir es que:
+(Incisos)
+A)                                                              B)                                                       C)                                                   D)
+"A veces las cosas son menos importantes de lo que parecen", "Hacer muchas cosas al mismo tiempo es no hacer ninguna", "Prometer algo es fácil, pero hacerlo es dificil", "No es valioso todo lo que parece serlo"
+(Respuesta)
+B. "Hacer muchas cosas al mismo tiempo es no hacer ninguna"
+
+7----
+(Pregunta)
+Completa la serie:   2,3,5,8,___,17
+(Incisos)
+A)     B)    C)     D)
+"10", "11", "12", "13"
+(Respuesta)
+C. "12"
+
+8----
+(Pregunta)
+¿Cuál opción da continuidad a la serie?      2,4,6,Z,8,10,12,Y...
+(Incisos)
+A)        B)       C)       D)
+"14,X", "X,14", "14,16", "16,18"
+(Respuesta)
+C. "14,16"
+
+9----
+(Pregunta)
+Cigarrillo es a enfisema como azúcar es a:
+(Incisos)
+A)            B)          C)           D)
+"glucosa", "diabetes", "insulina", "hidratos"
+(Respuesta)
+B. "diabetes"
+
+10----
+(Pregunta)
+Para una representacionn numérica, el 1 se escribe como Z, el 2 como Y, el 3 como X y el 4 como W. ¿Cuál es el resultado de la operacion?
+W + Z - X = ?
+(Incisos)
+A)    B)   C)   D)
+"W", "X", "Y", "Z"
+(Respuesta)
+C. "Y"
+
+
+11----
+(Pregunta)
+¿Cuál es el significado del refrán?
+Ojos que no ven, corazon que no siente.
+(Incisos)
+A)                                      B)                                        C)                                    D)
+"Lo mejor es ignorar para no sufrir", "Los invidentes son personas mas felices", "Con los ojos y el corazón sentimos", "Si no podemos sufrir del corazón"
+(Respuesta)
+A. "Lo mejor es ignorar para no sufrir"
+
+12----
+(Pregunta)
+¿Cuál de las opciones corresponde al siguiente para de palabras?
+Chapa es a puerta como...
+(Incisos)
+A)                         B)                     C)                  D)
+"bastilla es a pantalon", "agujeta es a tenis", "ropa es a cuerpo", "agua es ajarra"
+(Respuesta)
+B. "agujeta es a tenis"
+
+13----
+(Pregunta)
+Selecciona la opcion que ordena la frase de forma coherente.
+1.pueden
+2.ideas
+3.las
+4.se
+5.apresurar
+6.grandes
+7.no
+(Incisos)
+A)                B)                C)              D)
+"3,6,2,7,4,1,5", "5,2,7,3,6,4,1", "6,7,4,1,2,3,5", "7,4,1,5,6,3,2"
+(Respuesta)
+A. "3,6,2,7,4,1,5"
+ 
+--------------------------------- PREGUNTAS ELDA 14 - 15 -----------------------------------------------------------------------
+
+
+--------------------------------- FINAL DE PENSAMIENTO ANALITICO -----------------------------------------------------------------------
+
+
+
+
+
+--------------------------------- INICIO DE ESTRUCTURA DE LA LENGUA -----------------------------------------------------------------------
+
+
+--------------------------------- PREGUNTAS MARCO 1 - 4 -----------------------------------------------------------------------
+
+
+--------------------------------- PREGUNTAS FELIPE 5 - 15 -----------------------------------------------------------------------
+
+
+
+--------------------------------- FINAL DE ESTRUCTURA DE LA LENGUA -----------------------------------------------------------------------
+
+
+
+
+
+
+--------------------------------- INICIO DE COMPRENSION LECTORA -----------------------------------------------------------------------
+
+
+
+--------------------------------- PREGUNTAS ELDA 1 - 10 -----------------------------------------------------------------------
+
+
+--------------------------------- PREGUNTAS MARCO 11 - 15 -----------------------------------------------------------------------
+
+
+--------------------------------- FINAL DE COMPRENSION LECTORA  -----------------------------------------------------------------------

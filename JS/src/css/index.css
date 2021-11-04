@@ -1,5 +1,37 @@
 @import '@universidad-carolina/scales/css/mixins.css';
 
 body{
-    background-color: #eee;
+    background-color: rgb(233, 233, 233);
+    line-height: auto!important;
+    color: rgb(0, 0, 0);
+}
+button{
+    margin-top: 10px;
+    width: 13rem;
+    height: 3rem!important;
+    background-color: rgb(19, 42, 255)!important;
+    color: gray;
+}
+button.secondary{
+    background-color: rgb(255, 24, 24)!important;
+}
+.title{
+    font-size: 36px;
+}
+input[type=radio]{
+    margin-top: 10px;
+}
+h1{
+    line-height: 40px!important;
+    /*
+    @mixin large {
+        color: red;
+    }
+    */
+}
+index-view{
+    button{
+        display: block;
+        background-color: rgb(25, 0, 255)!important;
+    }
 }

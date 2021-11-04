@@ -42,6 +42,7 @@ export class SingleQuestion extends AbstractView{
               if ($("#r" + i).checked) {
                   this.modelo.selected = $("#r" + i).value
                   console.log(this.modelo.selected);
+                  this.radio.off("save:answer")
               }
               
           }        
@@ -50,15 +51,15 @@ export class SingleQuestion extends AbstractView{
     template(){
         return `
         <div class = "container">
-            ${this.modelo.questions}
+            ${this.modelo.question}
             <br>
-            <input type = "radio" id = "r0" name = "0" value = "${this.modelo.answers[0]}"><label for = "0"> ${this.modelo.answers[0]}</label>
+            <input type = "radio" id = "r0" name = "boton" value = "${this.modelo.answers[0]}"><label for = "0"> ${this.modelo.answers[0]}</label>
             <br>
-            <input type = "radio" id = "r1" name = "1" value = "${this.modelo.answers[1]}"><label for = "1"> ${this.modelo.answers[1]}</label>
+            <input type = "radio" id = "r1" name = "boton" value = "${this.modelo.answers[1]}"><label for = "1"> ${this.modelo.answers[1]}</label>
             <br>
-            <input type = "radio" id = "r2" name = "2" value = "${this.modelo.answers[2]}"><label for = "2"> ${this.modelo.answers[2]}</label>
+            <input type = "radio" id = "r2" name = "boton" value = "${this.modelo.answers[2]}"><label for = "2"> ${this.modelo.answers[2]}</label>
             <br>
-            <input type = "radio" id = "r3" name = "3" value = "${this.modelo.answers[3]}"><label for = "3"> ${this.modelo.answers[3]}</label>
+            <input type = "radio" id = "r3" name = "boton" value = "${this.modelo.answers[3]}"><label for = "3"> ${this.modelo.answers[3]}</label>
         </div>
         `
     }

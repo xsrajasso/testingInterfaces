@@ -10,16 +10,31 @@ import css from  "!style-loader!css-loader!postcss-loader!./index.css"
 import { questions } from '../../data/questions';
 import { SingleQuestion } from './SingleQuestion';
 import { ResultsView } from './ResultsView';
+import { IndexView } from './IndexView';
 
-@customElement('index-view')
+@customElement('questions-view')
 
 export class QuestionView extends AbstractView{
-    constructor(model){
+    constructor(section){
         super();
         this.model = {};
-        this.model.questions = questions;
+        this.model.questions = []
+        this.readQuestions(section)
         this.current = 0;
         this.radio = Eventing
+    }
+
+    readQuestions(section){
+        if (section == "all") {
+            questions.forEach(theme => this.model.questions = this.model.questions.concat(theme.questions));
+            // Se leen todas
+            return
+        }
+        questions.forEach(theme => {
+            if (theme.id == section) {
+                this.model.questions = theme.questions                
+            }
+        });
     }
 
     uiEvents = {
@@ -62,7 +77,7 @@ export class QuestionView extends AbstractView{
     @boundMethod
     return(){
         this.current--;
-        this.view = new QuestionView(this.model.questions[this.current]);
+        this.view = new SingleQuestion(this.model.questions[this.current]);
         this.area.innerHTML = "";
         this.area.appendChild(this.view);
         if(this.current == 0) $("#return").hidden = true
@@ -71,6 +86,12 @@ export class QuestionView extends AbstractView{
     restart(){
         this.current = 0;
         this.render();
+        for(const question in this.model.questions){
+            this.model.questions[question].selected=""
+        }
+        $("#app").innerHTML = "";
+        const indexView = new IndexView();
+        $("#app").appendChild(indexView);
     }
 
 
