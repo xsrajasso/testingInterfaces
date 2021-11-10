@@ -45,10 +45,28 @@ export class IndexView extends AbstractView{
     template(){
         return `
         <h1>Bienvenido al examen de practica para el EXANI-II</h1>
+        <br><br>
+        <h2>Porfavor elige una de las siguientes opciones</h2>
+        <br><br>
+        <div class="centerall">
+        <button class = "section" id = "all"> Exámen Completo </button>
+        </div>
+        <div class="center">
+        <div class="others" id = "btns" >
+        </div>
+        </div>
+        `
+    }
+}
+
+/*      ORIGINAL
+    template(){
+        return `
+        <h1>Bienvenido al examen de practica para el EXANI-II</h1>
         <h1>Porfavor elige una de las siguientes opciones</h1>
         <div id = "btns">
         <button class = "section" id = "all"> Todo </button>
         </div>
         `
     }
-}
+*/
